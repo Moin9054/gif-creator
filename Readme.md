@@ -42,7 +42,7 @@ python main.py
 ---
 
 ## 📷 Screenshot  
-![Screenshot](![image](https://github.com/user-attachments/assets/43f97533-5592-445a-8968-26494ba67319)
+![Screenshot](https://github.com/user-attachments/assets/43f97533-5592-445a-8968-26494ba67319)
 ![Screenshot](https://github.com/user-attachments/assets/710b89e0-cd81-44bc-b672-bdb9864909e1)
  
 
