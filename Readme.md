@@ -45,7 +45,7 @@ python main.py
 ![Screenshot](https://github.com/user-attachments/assets/1afb0745-ed0c-45b8-b66a-2c21f7bb169e)
 ![Screenshot](https://github.com/user-attachments/assets/f201e105-4328-4fb7-bfba-b0366e960b57)
 
-## GIF example
+## 🎬 GIF example
 ![GIF Preview](https://github.com/user-attachments/assets/36f1ebd6-1e06-4e14-b1f7-7a13c6e3578b)
  
 
