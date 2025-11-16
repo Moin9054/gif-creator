@@ -6,8 +6,8 @@ GIF Creator is a simple Python-based tool that allows users to create GIFs by dr
 ---
 
 ## 🚀 Features  
-✅ Drag and drop images  
-✅ Convert images to GIF  
+✅ Drag and drop images.  
+✅ Convert images to GIF  .
 ✅ Resize images automatically  
 ✅ Simple and user-friendly GUI  
 
@@ -48,6 +48,7 @@ python main.py
 ## 🎬 GIF example
 ![GIF Preview](https://github.com/user-attachments/assets/36f1ebd6-1e06-4e14-b1f7-7a13c6e3578b)
  
+
 
 
 
