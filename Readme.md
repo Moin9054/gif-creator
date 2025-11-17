@@ -21,12 +21,12 @@ git clone https://github.com/Moin9054/gif-creator.git
 cd gif-creator
 ```
 
-### 2️⃣ Install dependencies  
+### 2️⃣ Install dependencies.
 ```sh
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run the application  
+### 3️⃣ Run the application.
 ```sh
 python main.py
 ```
@@ -48,6 +48,7 @@ python main.py
 ## 🎬 GIF example
 ![GIF Preview](https://github.com/user-attachments/assets/36f1ebd6-1e06-4e14-b1f7-7a13c6e3578b)
  
+
 
 
 
